@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "gta4xl",
-      "repo": "https://github.com/LineageOS/android_kernel_samsung_gta4xl",
-      "branch": "lineage-22.1",
-      "device": "exynos9611-gta4xl"
+      "name": "munch",
+      "repo": "https://github.com/veedz/kernel_xiaomi_sm8250.git",
+      "branch": "lineage-23.2-test",
+      "device": "munch"
     },
     "withKernelSU": false,
     "toolchains": [
